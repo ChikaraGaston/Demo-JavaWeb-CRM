@@ -1,2 +1,2 @@
-# ERP-
-基于JavaWeb开发的公司ERP管理系统
+# CRM
+基于JavaWeb开发的公司管理系统
